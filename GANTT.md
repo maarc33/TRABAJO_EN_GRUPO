@@ -5,8 +5,8 @@ gantt
     axisFormat  %d/%m
     
     section 1. Definición
-    Definición del problema, objetivos y alcance :f1, 2026-10-26, 7d
-    Configuración de GitHub, Kanban y Gantt      :f1b, 2026-10-26, 3d
+    Definición del problema, objetivos y alcance :f1, 2026-10-20, 3d
+    Configuración de GitHub, Kanban y Gantt      :f1b, 2026-10-20, 3d
     
     section 2. Investigación
     Análisis del contexto de Gràcia              :f2a, after f1, 5d
