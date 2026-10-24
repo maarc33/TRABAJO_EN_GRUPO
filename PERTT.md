@@ -14,3 +14,13 @@
 | H | Recursos, pressupost, riscos i indicadors | F | 5 | 7 | 9 | 7 | 0,44 |
 | I | Revisió i avaluació de resultats | G, H | 3 | 4 | 5 | 4 | 0,11 |
 | J | Preparació de la presentació final | I | 2 | 3 | 4 | 3 | 0,11 |
+
+## Fórmules utilitzades
+
+Duració esperada:
+
+te = (a + 4m + b) / 6
+
+Variància:
+
+σ² = ((b - a) / 6)²
